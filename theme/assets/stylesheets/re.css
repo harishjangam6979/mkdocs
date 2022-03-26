@@ -18,10 +18,10 @@
     background: #ddd;
 }
 
-.tabbed-set .tabbed-content {
-    order: 99;
-    width: 100%;
-}
+/*.tabbed-set .tabbed-content {*/
+/*    order: 99;*/
+/*    width: 100%;*/
+/*}*/
 
 .tabbed-set label {
     width: auto;
