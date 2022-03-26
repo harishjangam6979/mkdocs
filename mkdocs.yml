@@ -61,7 +61,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Topics:
-      - HarishMain: topics/harish.md
+      - Harish: topics/harish.md
       - Test: topics/test.md
 #Maintained by <a href="/about/release-notes/#maintenance-team">Harish Jangam</a>.
 copyright: Copyright &copy; 2020 <a>Harish Reddy</a>.

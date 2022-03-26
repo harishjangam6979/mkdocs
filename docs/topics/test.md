@@ -7,13 +7,11 @@
     * Harish
 
 === "C++"
-    ```c++
-    #include <iostream>
-
-    int main(void) {
-      std::cout << "Hello world!" << std::endl;
-      return 0;
-    }
-    ```
-=== "TestTab"
+    1. Hello
+    2. Here is C++
+=== "C+++"
     ![Logo](../theme/assets/images/logo.png)
+=== "C++++"
+    ```sh
+    echo("Hello sh")
+    ```
