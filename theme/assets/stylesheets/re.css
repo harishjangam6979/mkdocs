@@ -19,7 +19,6 @@
 }
 
 .tabbed-set .tabbed-content {
-    display: none;
     order: 99;
     width: 100%;
 }
