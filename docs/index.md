@@ -2,7 +2,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Logo](theme/assets/images/logo.png)
 
-<br /><br />Harish's Doc
+<br /><br />Harish's Document page
 
 ## **Authors**
 

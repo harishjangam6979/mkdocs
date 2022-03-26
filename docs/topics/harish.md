@@ -6,7 +6,7 @@
 === "C"
     * Harish
 
-=== "C++"
+=== "C+"
     ```c++
     #include <iostream>
 
@@ -15,5 +15,5 @@
       return 0;
     }
     ```
-=== "TestTab"
+=== "C++"
     ![Logo](../theme/assets/images/logo.png)
