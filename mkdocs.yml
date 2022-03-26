@@ -24,7 +24,7 @@ theme:
     - yaml
     - django
 extra_css:
-  - 're-theme/assets/stylesheets/re.css'
+  - 'theme/assets/stylesheets/re.css'
 # optionally add script to expand first level of navigation
 extra_javascript:
   - 'theme/assets/javascript/nav-expand.js'
