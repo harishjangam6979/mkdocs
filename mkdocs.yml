@@ -1,0 +1,72 @@
+site_name: Harish Docs
+#site_url: https://coso-re-docs.us.caas.oneadp.com/
+site_description: harish Documentation.
+repo_url: https://github.com/harishjangam6979/mkdocs
+
+theme:
+  name: material
+  favicon: theme/assets/images/logo7.png
+  logo: theme/assets/images/logo.png
+  palette:
+    scheme: preference
+    primary: teal
+    accent: indigo
+  features:
+    - toc.autohide
+    - content.tabs.link
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+  hljs_languages:
+    - yaml
+    - django
+extra_css:
+  - 're-theme/assets/stylesheets/re.css'
+# optionally add script to expand first level of navigation
+extra_javascript:
+  - 'theme/assets/javascript/nav-expand.js'
+
+
+markdown_extensions:
+- attr_list
+- pymdownx.snippets
+- codehilite:
+    linenums: true
+- admonition
+- pymdownx.inlinehilite
+- pymdownx.superfences
+- pymdownx.details
+- attr_list
+- def_list
+- footnotes
+- pymdownx.caret
+- pymdownx.smartsymbols
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.tilde
+- toc:
+    permalink: true
+    title: "<big>📌  Table of Contents</big>"
+- markdown_include.include:
+    base_path: docs
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+
+nav:
+  - Home: index.md
+  - Topics:
+      - HarishMain: topics/harish.md
+      - Test: topics/test.md
+#Maintained by <a href="/about/release-notes/#maintenance-team">Harish Jangam</a>.
+copyright: Copyright &copy; 2020 <a>Harish Reddy</a>.
+
+plugins:
+#  - extradirs
+#  - macros
+  - search

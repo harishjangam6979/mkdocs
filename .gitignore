@@ -1,0 +1,10 @@
+# Global
+site/
+
+
+# IDEs
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
