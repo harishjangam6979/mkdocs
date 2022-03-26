@@ -1,8 +1,10 @@
-# Harish Reddy Docs
+# Harish Docs
+
+## [Website 🌐](https://harishjangam6979.github.io/mkdocs/)
 
 
 ## Reference
-* [Docs](https://github.com/harishjangam6979/mkdocs)
+* [Docs]( https://harishjangam6979.github.io/mkdocs/)
 
 ## Authors
 
